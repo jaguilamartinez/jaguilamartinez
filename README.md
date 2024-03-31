@@ -9,5 +9,6 @@
 - 🌱 Working on AI&ML as a Program/Product Manager
 - 💬 I love designing large-scale ML systems and working with people
 - 🤔 Currently passionate about GenAI and Cloud-native architectures
-- ✍🏻 Find me out on LinkedIn & Medium
+- 🧘🏽 I practice martial arts to check in with myself 
 - ⚡ Fun fact: I love Hip Hop, but I hate baggy clothes
+- ✍🏻 Find me out on LinkedIn & Medium
